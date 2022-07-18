@@ -1,0 +1,4 @@
+python-dbus source: no-debian-changes
+python-dbus source: source-contains-prebuilt-windows-binary
+python-dbus source: source-is-missing
+python-dbus source: source-package-encodes-python-version
