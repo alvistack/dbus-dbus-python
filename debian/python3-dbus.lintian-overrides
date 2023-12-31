@@ -1,0 +1,4 @@
+python3-dbus: copyright-without-copyright-notice
+python3-dbus: initial-upload-closes-no-bugs
+python3-dbus: no-manual-page
+python3-dbus: zero-byte-file-in-doc-directory
