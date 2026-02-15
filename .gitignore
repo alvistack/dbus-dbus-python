@@ -73,3 +73,8 @@ Makefile
 Makefile.in
 __pycache__/
 test-service.log
+
+MANIFEST
+MANIFEST.in
+PKG-INFO
+.pybuild
