@@ -1,0 +1,3 @@
+usr/include/*
+usr/lib/python*/*-packages/*
+usr/lib/python*/*-packages/.dbus*

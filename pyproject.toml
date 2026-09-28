@@ -14,13 +14,7 @@ requires = [
 
 [project]
 name = 'dbus-python'
-license = 'MIT AND (GPL-2.0-or-later OR AFL-2.1)'
-license-files = [
-    'COPYING',
-    'LICENSES/*.txt',
-    'subprojects/dbus-gmain/COPYING',
-    'subprojects/dbus-gmain/LICENSES/*.txt',
-]
+license = { text = 'MIT AND (GPL-2.0-or-later OR AFL-2.1)' }
 description = 'Python bindings for libdbus'
 maintainers = [
     { name = 'The D-Bus maintainers', email = 'dbus@lists.freedesktop.org' },

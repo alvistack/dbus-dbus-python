@@ -1,0 +1,5 @@
+python-dbus (100:1.5.0-1) UNRELEASED; urgency=medium
+
+  * https://gitlab.freedesktop.org/dbus/dbus-python/-/tags/dbus-python-1.5.0
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Mon, 28 Sep 2026 10:41:57 +0800
